@@ -28,8 +28,22 @@ Ferramenta para comunicação em geral
 #### Como acessar
 Download ou web app: https://discordapp.com/
 Servidor HackaTrouble: https://discord.gg/vQ9DnTJ
-Como usar: 
+Como usar: https://github.com/ferfoster/hackaTrouble/blob/master/INSCRICAO_DISCORD_MENTORES.pdf
 
-### 2- Chime - receberam email no email casado para mentor
-### 3- Shawee - PDF aqui
-### 4- Mural - instrução acima aqui.
+### 2- Chime
+Feramenta oficial do HackaTrouble para videoconferencia
+Link de acesso: https://signin.id.ue1.app.chime.aws//?callback_url=https%3A%2F%2Fapp.chime.aws%2F%3Fcsrf_token%3DnjqP6CmrUdd0nhlNvYKlPE48euJON38x
+
+### 3- Shawee
+Ferramenta de gestão de hackatons
+Instruções: https://github.com/ferfoster/hackaTrouble/blob/master/INSCRICAO_SHAWEE_MENTORES.pdf
+
+Access Code Mentor:  
+Desafio Negócio - http://app.shawee.io/access-code/93766207   
+Desafio Saúde - http://app.shawee.io/access-code/90730574 
+Desafio Social - http://app.shawee.io/access-code/79065083 
+Desafio Mobilidade - http://app.shawee.io/access-code/11033054
+
+### 4- Mural
+Ferramenta para organizaço de ideias
+Link: https://mural.co
