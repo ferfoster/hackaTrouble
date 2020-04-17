@@ -25,17 +25,17 @@ Resultado esperado: Solução e vídeo DEMO, avaliado pelo mentor e tutor.
 ### 1- Discord
 Ferramenta para comunicação em geral
 
-Download ou web app: https://discordapp.com/
-Servidor HackaTrouble: https://discord.gg/vQ9DnTJ
-Como usar: https://github.com/ferfoster/hackaTrouble/blob/master/INSCRICAO_DISCORD_MENTORES.pdf
+[Download ou web app](https://discordapp.com/)
+[Servidor HackaTrouble](https://discord.gg/vQ9DnTJ)
+[Como usar](https://github.com/ferfoster/hackaTrouble/blob/master/INSCRICAO_DISCORD_MENTORES.pdf)
 
 ### 2- Chime
-Feramenta oficial do HackaTrouble para videoconferencia
-Link de acesso: https://signin.id.ue1.app.chime.aws//?callback_url=https%3A%2F%2Fapp.chime.aws%2F%3Fcsrf_token%3DnjqP6CmrUdd0nhlNvYKlPE48euJON38x
+Feramenta para videoconferencia
+[Link de acesso](https://signin.id.ue1.app.chime.aws//?callback_url=https%3A%2F%2Fapp.chime.aws%2F%3Fcsrf_token%3DnjqP6CmrUdd0nhlNvYKlPE48euJON38x)
 
 ### 3- Shawee
 Ferramenta de gestão de hackatons
-Instruções: https://github.com/ferfoster/hackaTrouble/blob/master/INSCRICAO_SHAWEE_MENTORES.pdf
+[Instruções](https://github.com/ferfoster/hackaTrouble/blob/master/INSCRICAO_SHAWEE_MENTORES.pdf)
 
 Access Code Mentor:  
 Desafio Negócio - http://app.shawee.io/access-code/93766207   
@@ -45,4 +45,4 @@ Desafio Mobilidade - http://app.shawee.io/access-code/11033054
 
 ### 4- Mural
 Ferramenta para organizaço de ideias
-Link: https://mural.co
+[Acesso](https://mural.co)
