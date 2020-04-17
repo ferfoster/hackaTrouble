@@ -25,7 +25,6 @@ Resultado esperado: Solução e vídeo DEMO, avaliado pelo mentor e tutor.
 ### 1- Discord
 Ferramenta para comunicação em geral
 
-#### Como acessar
 Download ou web app: https://discordapp.com/
 Servidor HackaTrouble: https://discord.gg/vQ9DnTJ
 Como usar: https://github.com/ferfoster/hackaTrouble/blob/master/INSCRICAO_DISCORD_MENTORES.pdf
